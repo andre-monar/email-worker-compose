@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "bottle": "^0.2.0",
     "postgres": "^3.4.8"
   }
 }
