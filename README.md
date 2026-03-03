@@ -6,9 +6,9 @@
 ```text
 🌐 Frontend (Nginx) → 🐍 App (Python) → 🗄️ Banco (PostgreSQL)
                           ↓
-                        📦 Redes
+                        📦 Fila (Redis)
                           ↓
-                        ⚙️ Worker
+                        ⚙️ Workers
 ```
 
 ## 🚀 Tecnologias
